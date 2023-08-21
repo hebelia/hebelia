@@ -1,17 +1,19 @@
 <!-- ## Hey 👋, I'm Hebe Lia! -->
-<div style="justify-content: center; padding:20px; ">
+<div style="justify-content: center; padding:20px;">
 <p >
 
 <!-- [![SVG](https://readme-typing-svg.demolab.com?font=Consola&size=35&pause=1000&color=49F7DE&width=435&lines=Hi%2C+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Hebe+Lia;%E2%9C%85+Full+Stack+Developer+from+Argentina;Nice+to+meet+you+~)]() -->
-<img alt="gif" src="https://readme-typing-svg.demolab.com?font=Consola&size=35&pause=1000&color=49F7DE&width=435&lines=Hi%2C+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Hebe+Lia;%E2%9C%85+Full+Stack+Developer+from+Argentina;Nice+to+meet+you+~" />
+<img style="justify-content: center; padding:20px; " alt="gif" src="https://readme-typing-svg.demolab.com?font=Consola&size=35&pause=1000&color=49F7DE&width=435&lines=Hi%2C+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Hebe+Lia;%E2%9C%85+Full+Stack+Developer+from+Argentina;Nice+to+meet+you+~" />
 </p>
 </div>
-
+<!--  -->
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
 <br>
+
+<!-- about me -->
 <div>
-<img align="right" alt="GIF" src="/assets/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="/assets/8d621f66f551b6a39072473d52280ff0.gif" width="360px"/>
  
 ### ◇ &nbsp; About Me &nbsp;:
 
@@ -26,11 +28,200 @@
 - 📝 &nbsp; Here you can find my [>Resume<](https://drive.google.com/file/d/1tDK03zVd83FzXb5vAaXOUsmacSsT05JK/view?usp=sharing)
 
 </div>
+<!--  -->
 <br/>
 <br/>
 
 <!-- languages and tools -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+
+## 🔨 &nbsp; Languages and Tools &nbsp;:
+
+<br><br>
+
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/react/react.svg"></a>
+
+<a href="https://redux.js.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/redux/redux.svg" alt="redux" height="42px"/> </a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+
+<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="typescirpt" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+
+<a href="https://www.java.com" target="_blank"> <img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/java/java.svg"></a>
+
+<a href="https://angular.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/angular/angular.svg" alt="angular" height="42px"/> </a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" > <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/css/css.svg" alt="css" height="42px"/> </a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/html/html.svg" alt="html" height='42px'/> </a>
+
+<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="42px" height="42px"/></a>
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42px" height="42px"/> </a>
+
+<a href="https://nodejs.org" target="_blank"> <img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/node/node.svg"></a>
+
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring"  height="42px"/></a>
+
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="bash" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/bash/bash.svg"></a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42px" height="42px"/> </a>
+
+<a href="https://cloud.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/google-cloud/google-cloud.svg" alt="google-cloud" height="42px"/> </a>
+
+<a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/docker/docker.svg" alt="docker" height="42px"/> </a>
+
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="42px"/> </a>
+
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="42px"/> </a>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+</div>
+
+<!--  -->
+
+<!-- github stats -->
+
+<div align="center">
+
+## 📊 Github Stats
+
+![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg#gh-dark-mode-only)
+
+![Stats Overview](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg#gh-dark-mode-only)
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hebelia) -->
+
+<!-- ![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg) -->
+
+</div>
+
+<!--  -->
+
+<br><br><br><br>
+
+<!-- github projects -->
+
+<div align="center">
+
+## 🛠️ My Projects
+
+<br>
+<br>
+
+<div align="left">
+
+<!--  -->
+
+<!--  -->
+
+### ◇ Web Portfolio
+
+<a href="https://github.com/hebelia/front-end" target="_blank"> 
+<img alt="portfolio" src="/assets/android-chrome-192x192.png" height="68" align="left"> </a>
+
+<br>
+<br>
+
+### 📷 Portfolio images:
+
+<details>
+  <summary> <a> Normal view :mag_right: </a></summary>
+
+![Visualización1](/assets/portfolio.png)
+
+</details>
+<details>
+  <summary> <a> Editing access view :mag_right:</a></summary>
+
+![Visualización2](/assets/edit-view.png)
+
+</details>
+
+<br />
+</div>
+
+<!-- <a href="https://github.com/hebelia/Integration-Project" target="_blank">
+<img alt="integration-project" src="./assets/favicon.ico"  height="68" align="left"> </a>
+
+<br> -->
+
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
+### ◇ Rick & Morty (an integration project)
+
+<div style="display: flex; align-items: center;">
+
+  <div style="flex: 1;" height="100">
+
+<!-- ### Rick & Morty (an integration project) -->
+
+    ▻ first project developed on Henry
+
+  </div>
+  <div style="flex: 1; text-align: center;" height="50px">
+  
+<!-- ![Image](/assets/favicon.ico) -->
+
+<img alt="integration-project" src="./assets/favicon.ico"  height="50px" align="left">
+
+  </div>
+</div>
+
+<br><br><br><br>
+
+<!-- tests -->
+
+<!--  -->
+
+<!-- contact -->
+
+## 📬 Contact with me
+
+<a href='https://www.linkedin.com/in/hebeliaromeu/'><img align='left' alt="linkedin" src="/assets/linkedin.svg/" height='18px'/></a>
+
+<br><br>
+
+<p align="left">
+<a href="https://linkedin.com/in/hebeliaromeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hebeliaromeu" height="30" width="42px" /></a>
+</p>
+
+MAIL :
+...
+
+<!-- TEST -->
+
+<div style="display: flex; justify-content: space-between;">
+
+<!-- GitHub Stats -->
+<div align="center" width="50%">
+
+## 📊 Github Stats
+
+![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg#gh-dark-mode-only)
+
+![Stats Overview](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg#gh-dark-mode-only)
+
+  <!-- Add any other GitHub stats or info you want here -->
+</div>
+
+<!-- Languages and Tools -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center;" width='50%'>
 
 ## 🔨 &nbsp; Languages and Tools &nbsp;:
 
@@ -74,131 +265,6 @@
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="42px"/> </a>
 
-<br><br>
-
-<div align="center">
-
 </div>
 
-<!-- # 💻 Tech Stack:
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) -->
-
-<!--  -->
-
-<!-- github stats -->
-
-<div align="center">
-
-## 📊 Github Stats
-
-![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg#gh-dark-mode-only)
-
-![Stats Overview](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg#gh-dark-mode-only)
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hebelia) -->
-
-<!-- ![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg)
-![Stats Overview](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg) -->
-
 </div>
-<br>
-
-<!--  -->
-
-<!-- github projects -->
-
-<div align="center">
-
-## 🛠️ My Projects
-
-<br>
-<br>
-
-<div align="left">
-
-<!--  -->
-
-
-<!--  -->
-
-## ◇ Web Portfolio
-
-<a href="https://github.com/hebelia/front-end" target="_blank"> 
-<img alt="portfolio" src="/assets/android-chrome-192x192.png" height="68" align="left"> </a>
-
-<br>
-<br>
-
-### 📷 Portfolio images:
-
-<details>
-  <summary> <a> Normal view :mag_right: </a></summary>
-
-![Visualización1](/assets/portfolio.png)
-
-</details>
-<details>
-  <summary> <a> Editing access view :mag_right:</a></summary>
-
-![Visualización2](/assets/edit-view.png)
-
-</details>
-
-<br />
-</div>
-
-<!-- <a href="https://github.com/hebelia/Integration-Project" target="_blank">
-<img alt="integration-project" src="./assets/favicon.ico"  height="68" align="left"> </a>
-
-<br> -->
-
-</div>
-
-<br>
-<br>
-<br>
-<br>
-
-## ◇ Rick & Morty (an integration project)
-
-<div style="display: flex; align-items: center;">
-
-  <div style="flex: 1;" height="100">
-
-<!-- ### Rick & Morty (an integration project) -->
-
-    ▻ first project developed on Henry
-
-  </div>
-  <div style="flex: 1; text-align: center;" height="50px">
-  
-<!-- ![Image](/assets/favicon.ico) -->
-
-<img alt="integration-project" src="./assets/favicon.ico"  height="50px" align="left">
-
-  </div>
-</div>
-
-<br><br><br><br>
-
-<!-- tests -->
-
-<!--  -->
-
-<!-- contact -->
-
-## 📬 Contact with me
-
-<a href='https://www.linkedin.com/in/hebeliaromeu/'><img align='left' alt="linkedin" src="/assets/linkedin.svg/" height='18px'/></a>
-
-<br><br>
-
-<p align="left">
-<a href="https://linkedin.com/in/hebeliaromeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hebeliaromeu" height="30" width="42px" /></a>
-</p>
-
-MAIL :
-...
-
-<!--  -->
