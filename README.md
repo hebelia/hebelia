@@ -25,7 +25,7 @@
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels.
 - 📌 &nbsp; I am a passionate frontend developer from [>Argentina<](https://g.co/kgs/iJQ7Lu)
 - 💬 &nbsp; Ask me about anything , I am happy to help;
-- 📝 &nbsp; Here you can find my [>Resume<](https://drive.google.com/file/d/1tDK03zVd83FzXb5vAaXOUsmacSsT05JK/view?usp=sharing)
+- 📝 &nbsp; Here you can find my [>Resume<](https://drive.google.com/file/d/1HV9org2EFG1ICMCeAMiw_1wJBZkcTfIO/view?usp=sharing)
 
 </div>
 <!--  -->
