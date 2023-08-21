@@ -5,8 +5,8 @@
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
 <br>
-
-<img align="right" alt="GIF" src="/assets/techstack.gif" width="360px"/>
+<div>
+<img align="right" alt="GIF" src="/assets/banner.gif" width="360px"/>
  
 ### ◇ &nbsp; About Me &nbsp;:
 
@@ -18,8 +18,10 @@
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels.
 - 📌 &nbsp; I am a passionate frontend developer from [>Argentina<](https://g.co/kgs/iJQ7Lu)
 - 💬 &nbsp; Ask me about anything , I am happy to help;
-- 📝 &nbsp; Here you can find my [>Resume<](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📝 &nbsp; Here you can find my [>Resume<](https://drive.google.com/file/d/1tDK03zVd83FzXb5vAaXOUsmacSsT05JK/view?usp=sharing)
 
+
+</div>
 <br/>
 <br/>
 
@@ -27,8 +29,6 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
 ## 🔨 &nbsp; Languages and Tools &nbsp;:
-
-
 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/react/react.svg"></a>
 
@@ -70,9 +70,7 @@
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="42px"/> </a>
 
-
 </div>
-
 
 <!-- # 💻 Tech Stack:
 
