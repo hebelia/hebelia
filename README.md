@@ -278,10 +278,10 @@
 ## ◇ &nbsp; Connect with me &nbsp; 📬
 
 <div align="left">
-  <a href="https://codepen.io/hebelia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hebelia" height="45" width="45" /></a>
   <a href="https://linkedin.com/in/hebeliaromeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hebeliaromeu" height="45" width="45" /></a>
   <a href="https://instagram.com/hebe.lia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hebe.lia" height="45" width="45" /></a>
   <a href="mailto:hebeliaromeu@gmail.com"><img align="center" src="/assets/mail.svg" alt="Email Me" height="50" width="45"></a>
+  <a href="https://codepen.io/hebelia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hebelia" height="45" width="45" /></a>
 </div>
 
 <!-- TEST -->
