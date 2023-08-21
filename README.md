@@ -6,7 +6,7 @@
 
 <br>
 <div>
-<img align="right" alt="GIF" src="/assets/banner.gif" width="360px"/>
+<img align="right" alt="GIF" src="/assets/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="50%"/>
  
 ### ◇ &nbsp; About Me &nbsp;:
 
