@@ -51,7 +51,7 @@
 ![Stats Overview](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg) -->
 
 </div>
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center;">
 
 <!-- GitHub Stats -->
 <div >
