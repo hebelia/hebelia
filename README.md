@@ -63,7 +63,7 @@
 </div>
 
 <!--  -->
-
+<br><br>
 <!-- languages and tools -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
@@ -71,7 +71,7 @@
 
 <br><br>
 
-<p>
+
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/react/react.svg"></a>
 
 <a href="https://redux.js.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/redux/redux.svg" alt="redux" height="42px"/> </a>
@@ -112,7 +112,7 @@
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="42px"/> </a>
 
-</p>
+
 
 </div>
 
@@ -221,3 +221,13 @@ MAIL :
 ...
 
 <!-- TEST -->
+
+<div>
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title |
+| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
+
+
+</div>
