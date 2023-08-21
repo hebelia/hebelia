@@ -37,7 +37,7 @@
 <!-- languages and tools -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
-## 🔨 &nbsp; Languages and Tools &nbsp;:
+## ◇ 🔨 &nbsp; Languages and Tools &nbsp;:
 
 <br><br>
 
@@ -95,7 +95,7 @@
 
 <div align="center">
 
-## 📊 Github Stats
+## ◇ 📊 Github Stats
 
 ![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg#gh-dark-mode-only)
 
@@ -116,7 +116,7 @@
 
 <div align="center">
 
-## 🛠️ My Projects
+## ◇ 🛠️ My Projects
 
 <br>
 <br>
@@ -127,7 +127,7 @@
 
 <!--  -->
 
-### ◇ Web Portfolio
+### ≫ Web Portfolio
 
 <a href="https://github.com/hebelia/front-end" target="_blank"> 
 <img alt="portfolio" src="/assets/android-chrome-192x192.png" height="68" align="left"> </a>
@@ -165,7 +165,7 @@
 <br>
 <br>
 
-### ◇ Rick & Morty (an integration project)
+### ≫ Rick & Morty (an integration project)
 
 <div style="display: flex; align-items: center;">
 
@@ -213,7 +213,7 @@ MAIL :
 <!-- GitHub Stats -->
 <div align="center" width="50%">
 
-## 📊 Github Stats
+### 📊 Github Stats
 
 ![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg#gh-dark-mode-only)
 
@@ -225,7 +225,7 @@ MAIL :
 <!-- Languages and Tools -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center;" width='50%'>
 
-## 🔨 &nbsp; Languages and Tools &nbsp;:
+### 🔨 &nbsp; Languages and Tools &nbsp;:
 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/react/react.svg"></a>
 
