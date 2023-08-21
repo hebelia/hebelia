@@ -15,7 +15,7 @@
 
 ## ◇ &nbsp; About Me &nbsp;:
 
-<img align="right" alt="GIF" src="/assets/3.gif" width="370px" height="110%"/>
+<img align="right" alt="GIF" src="/assets/3.gif" width="365px" height="110%"/>
 
 - 🎯 &nbsp; I’m currently studying on [>SoyHenry<](https://www.soyhenry.com/)
 - 🤝 &nbsp; I love collaborating on projects and learning hands-on;
@@ -29,7 +29,7 @@
 
 </div>
 <!--  -->
-<br/>
+<br/><br/>
 
 <!-- github stats -->
 
