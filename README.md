@@ -40,7 +40,7 @@
 ## ◇ 🔨 &nbsp; Languages and Tools &nbsp;:
 
 <br><br>
-
+<p>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/react/react.svg"></a>
 
 <a href="https://redux.js.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/redux/redux.svg" alt="redux" height="42px"/> </a>
@@ -80,6 +80,7 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="42px"/> </a>
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="42px"/> </a>
+</p>
 
 </div>
 
