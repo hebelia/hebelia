@@ -3,9 +3,10 @@
 <p >
 
 <!-- [![SVG](https://readme-typing-svg.demolab.com?font=Consola&size=35&pause=1000&color=49F7DE&width=435&lines=Hi%2C+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Hebe+Lia;%E2%9C%85+Full+Stack+Developer+from+Argentina;Nice+to+meet+you+~)]() -->
-<img style="justify-content: center; padding:20px; " alt="gif" src="https://readme-typing-svg.demolab.com?font=Consola&size=35&pause=1000&color=49F7DE&width=435&lines=Hi%2C+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Hebe+Lia;%E2%9C%85+Full+Stack+Developer+from+Argentina;Nice+to+meet+you+~" />
+<img style="justify-content: center; padding:20px; " alt="gif" src="https://readme-typing-svg.demolab.com?font=Consola&size=35&pause=1000&color=8647F7&width=435&lines=Hi%2C+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Hebe+Lia;%E2%9C%94+Full+Stack+Dev.;Nice+to+meet+you!+%5E%5E" />
 </p>
 </div>
+
 <!--  -->
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
