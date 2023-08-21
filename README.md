@@ -38,7 +38,7 @@
 
 <div >
 
-## ◇ Github Stats 📊
+## ◇ &nbsp; Github Stats &nbsp; 📊
 
 <!-- ![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg#gh-dark-mode-only)
 
@@ -63,93 +63,161 @@
 </div>
 
 <!--  -->
-<br><br>
+
+<br>
+
 <!-- languages and tools -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div>
 
-## ◇ 🔨 &nbsp; Languages and Tools &nbsp;:
+## ◇ &nbsp; Languages and Tools &nbsp; 🔨
 
-<br><br>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/react/react.svg" alt="React" height="42px">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://redux.js.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/redux/redux.svg" alt="Redux" height="42px">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/javascript/javascript.svg" alt="JavaScript" height="42px">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/typescript/typescript.svg" alt="TypeScript" height="42px">
+      </a>
+    </td>
 
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.java.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/java/java.svg" alt="Java" height="42px">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://angular.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/angular/angular.svg" alt="Angular" height="42px">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/css/css.svg" alt="CSS" height="42px">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/html/html.svg" alt="HTML" height="42px">
+      </a>
+    </td>
 
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/react/react.svg"></a>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.ruby-lang.org/en/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="42px" height="42px">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="42px" height="42px">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/node/node.svg" alt="Node.js" height="42px">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://spring.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="42px">
+      </a>
+    </td>
 
-<a href="https://redux.js.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/redux/redux.svg" alt="redux" height="42px"/> </a>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://firebase.google.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/firebase/firebase.svg" alt="Firebase" height="42px">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="Git" height="42px">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/bash/bash.svg" alt="Bash" height="42px">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42px" height="42px">
+      </a>
+    </td>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://cloud.google.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/google-cloud/google-cloud.svg" alt="Google Cloud" height="42px">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/docker/docker.svg" alt="Docker" height="42px">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" height="42px">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="42px">
+      </a>
+    </td>
 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="typescirpt" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-
-<a href="https://www.java.com" target="_blank"> <img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/java/java.svg"></a>
-
-<a href="https://angular.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/angular/angular.svg" alt="angular" height="42px"/> </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" > <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/css/css.svg" alt="css" height="42px"/> </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/html/html.svg" alt="html" height='42px'/> </a>
-
-<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="42px" height="42px"/></a>
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42px" height="42px"/> </a>
-
-<a href="https://nodejs.org" target="_blank"> <img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/node/node.svg"></a>
-
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring"  height="42px"/></a>
-
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="bash" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/bash/bash.svg"></a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42px" height="42px"/> </a>
-
-<a href="https://cloud.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/google-cloud/google-cloud.svg" alt="google-cloud" height="42px"/> </a>
-
-<a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/docker/docker.svg" alt="docker" height="42px"/> </a>
-
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="42px"/> </a>
-
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="42px"/> </a>
-
-
+  </tr>
+</table>
 
 </div>
-
-<br><br>
-
-<div align="center">
-
-</div>
-
-<!--  -->
-
-<br><br><br><br>
 
 <!-- github projects -->
 
+## ◇ &nbsp; My Projects &nbsp; 🛠️
+
 <div align="center">
 
-## ◇ 🛠️ My Projects
-
-<br>
-<br>
-
 <div align="left">
-
-<!--  -->
-
-<!--  -->
 
 ### ≫ Web Portfolio
 
 <a href="https://github.com/hebelia/front-end" target="_blank"> 
-<img alt="portfolio" src="/assets/android-chrome-192x192.png" height="68" align="left"> </a>
+<!-- <img alt="portfolio" src="/assets/android-chrome-192x192.png" height="68" align="left"> </a> -->
 
-<br>
-<br>
+<div style="display: flex; align-items: center;">
 
-### 📷 Portfolio images:
+  <div style="flex: 1;" height="100">
+
+    ▻ final project on #ArgentinaPrograma
+
+  </div>
+  <div style="flex: 1; text-align: center;" height="50px">
+
+<a href="https://github.com/hebelia/front-end">
+<img alt="final-project-argprog" src="./assets/android-chrome-192x192.png"  height="60px" align="left">
+</a>
+  </div>
+</div>
 
 <details>
   <summary> <a> Normal view :mag_right: </a></summary>
@@ -167,17 +235,7 @@
 <br />
 </div>
 
-<!-- <a href="https://github.com/hebelia/Integration-Project" target="_blank">
-<img alt="integration-project" src="./assets/favicon.ico"  height="68" align="left"> </a>
-
-<br> -->
-
 </div>
-
-<br>
-<br>
-<br>
-<br>
 
 ### ≫ Rick & Morty (integration project)
 
@@ -185,21 +243,36 @@
 
   <div style="flex: 1;" height="100">
 
-<!-- ### Rick & Morty (an integration project) -->
-
     ▻ first project developed on Henry
 
   </div>
   <div style="flex: 1; text-align: center;" height="50px">
-  
-<!-- ![Image](/assets/favicon.ico) -->
 
+<a href="https://github.com/hebelia/Integration-Project">
 <img alt="integration-project" src="./assets/favicon.ico"  height="50px" align="left">
+</a>
 
-  </div>
 </div>
 
-<br><br><br><br>
+<details>
+  <summary> <a> :mag_right: </a></summary>
+
+![Visualización1](/assets/rnm-pc.png)
+
+</details>
+<details>
+  <summary> <a>  :mag_right:</a></summary>
+
+![Visualización2](/assets/rnm-2.png)
+
+</details>
+
+
+</div>
+
+<!--  -->
+
+<br><br>
 
 <!-- tests -->
 
@@ -221,13 +294,3 @@ MAIL :
 ...
 
 <!-- TEST -->
-
-<div>
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title |
-| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
-
-
-</div>
