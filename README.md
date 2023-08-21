@@ -15,7 +15,7 @@
 
 ## ◇ &nbsp; About Me &nbsp;:
 
-<img align="right" alt="GIF" src="/assets/3.gif" width="365px" height="90px"/>
+<img align="right" alt="GIF" src="/assets/3.gif" width="300px" height="300px"/>
 
 - 🎯 &nbsp; I’m currently studying on [>SoyHenry<](https://www.soyhenry.com/)
 - 🤝 &nbsp; I love collaborating on projects and learning hands-on;
