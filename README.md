@@ -284,12 +284,9 @@
   <a href="mailto:hebeliaromeu@gmail.com"><img align="center" src="/assets/mail.svg" alt="Email Me" height="50" width="45"></a>
 </div>
 
-
 <!-- TEST -->
 <!-- ## ◇ &nbsp;  GitHub Trophies &nbsp; 🏆
 ![](https://github-profile-trophy.vercel.app/?username=hebelia&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
-### ◇ &nbsp;  Random Dev Quote &nbsp; 💭 
+### ◇ &nbsp;  Random Dev Quote &nbsp; 💭
 -->
-
-
