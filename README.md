@@ -33,7 +33,38 @@
 </div>
 <!--  -->
 <br/>
-<br/>
+
+
+<!-- github stats -->
+
+<div >
+
+## ◇ Github Stats 📊
+
+<!-- ![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg#gh-dark-mode-only)
+
+![Stats Overview](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg#gh-dark-mode-only) -->
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hebelia) -->
+
+<!-- ![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg) -->
+
+</div>
+<div style="display: flex; justify-content: space-between;">
+
+<!-- GitHub Stats -->
+<div >
+  <h2 align="right"></h2>
+  <img src="https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg#gh-dark-mode-only" alt="Most Used Languages">
+  <img src="https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview">
+  <h2 align="right"></h2>
+</div>
+
+
+</div>
+
+<!--  -->
 
 <!-- languages and tools -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
@@ -93,24 +124,7 @@
 
 <!--  -->
 
-<!-- github stats -->
 
-<div align="center">
-
-## ◇ 📊 Github Stats
-
-![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg#gh-dark-mode-only)
-
-![Stats Overview](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg#gh-dark-mode-only)
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hebelia) -->
-
-<!-- ![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg)
-![Stats Overview](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg) -->
-
-</div>
-
-<!--  -->
 
 <br><br><br><br>
 
