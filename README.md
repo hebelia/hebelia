@@ -1,5 +1,7 @@
 <!-- ## Hey 👋, I'm Hebe Lia! -->
+
 <br><br>
+
 <div style="justify-content: center; padding-top:20px;">
 <p >
 
@@ -10,8 +12,6 @@
 
 <!--  -->
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
-
-
 
 <!-- about me -->
 <div>
@@ -34,7 +34,6 @@
 <!--  -->
 <br/>
 
-
 <!-- github stats -->
 
 <div >
@@ -54,13 +53,12 @@
 <div style="display: flex; justify-content: center;">
 
 <!-- GitHub Stats -->
-<div >
+<div  style="display: flex; justify-content: center;">
   <h2 align="right"></h2>
   <img src="https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg#gh-dark-mode-only" alt="Most Used Languages">
   <img src="https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview">
   <h2 align="right"></h2>
 </div>
-
 
 </div>
 
@@ -72,6 +70,7 @@
 ## ◇ 🔨 &nbsp; Languages and Tools &nbsp;:
 
 <br><br>
+
 <p>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/react/react.svg"></a>
 
@@ -112,6 +111,7 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="42px"/> </a>
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="42px"/> </a>
+
 </p>
 
 </div>
@@ -123,8 +123,6 @@
 </div>
 
 <!--  -->
-
-
 
 <br><br><br><br>
 
