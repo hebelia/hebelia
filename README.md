@@ -53,10 +53,10 @@
 <div style="display: flex; justify-content: center;">
 
 <!-- GitHub Stats -->
-<div  style="display: flex; justify-content: center;">
+<div  align="center">
   <h2 align="right"></h2>
-  <img src="https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg#gh-dark-mode-only" alt="Most Used Languages">
-  <img src="https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview">
+  <img align="center"src="https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg#gh-dark-mode-only" alt="Most Used Languages">
+  <img align="center" src="https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview">
   <h2 align="right"></h2>
 </div>
 
