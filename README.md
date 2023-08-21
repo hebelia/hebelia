@@ -119,35 +119,7 @@
 
 <!--  -->
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1; padding-right: 20px;">
 
-## ◇ Web Portfolio
-
-    ▻ web portfolio created on ArgentinaPrograma
-
-### 📷 Portfolio images:
-
-<details>
-  <summary> <a> Normal view :mag_right: </a></summary>
-
-![Visualización1](/assets/portfolio.png)
-
-</details>
-<details>
-  <summary> <a> Editing access view :mag_right:</a></summary>
-
-![Visualización2](/assets/edit-view.png)
-
-</details>
-
-<br />
-
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="/assets/android-chrome-192x192.png" alt="Image" style="width: 100%; max-height: 100%;">
-  </div>
-</div>
 <!--  -->
 
 ## ◇ Web Portfolio
