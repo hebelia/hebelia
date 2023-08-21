@@ -100,16 +100,120 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🛠️ My Projects
 
-<a href="https://github.com/hebelia/front-end" target="_blank"> 
-<img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-
-<a href="https://github.com/hebelia/back-end" target="_blank"> 
-<img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-
-<a href="https://github.com/hebelia/README_icons" target="_blank"> 
-<img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-
-<a href="https://github.com/hebelia/PasswordKeeper" target="_blank"> 
-<img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-
 </div>
+
+## 🔨 &nbsp; Languages and Tools &nbsp;:
+
+<table >
+  <tr style="display: flex; flex-wrap: wrap; justify-content: center;" >
+    <td align="center">
+      <a href="https://reactjs.org/" target="_blank">
+        <img align="left" alt="React" height="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/react/react.svg">
+      </a><br>
+      React
+    </td>
+    <td align="center">
+      <a href="https://redux.js.org/" target="_blank">
+        <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/redux/redux.svg" alt="redux" height="42px"/>
+      </a><br>
+      Redux
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/javascript/javascript.svg">
+      </a><br>
+      JavaScript
+    </td>
+    <td align="center">
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img align="left" alt="Typescript" height="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/typescript/typescript.svg">
+      </a><br>
+      TypeScript
+    </td>
+    <td align="center">
+      <a href="https://www.java.com" target="_blank">
+        <img align="left" alt="Java" height="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/java/java.svg">
+      </a><br>
+      Java
+    </td>
+    <td align="center">
+      <a href="https://angular.io/" target="_blank">
+        <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/angular/angular.svg" alt="angular" height="42px"/>
+      </a><br>
+      Angular
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/css/css.svg" alt="css" height="42px"/>
+      </a><br>
+      CSS
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/html/html.svg" alt="html" height="42px"/>
+      </a><br>
+      HTML
+    </td>
+    <td align="center">
+      <a href="https://www.ruby-lang.org/en/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="42px" height="42px"/>
+      </a><br>
+      Ruby
+    </td>
+    <td align="center">
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42px" height="42px"/>
+      </a><br>
+      Bootstrap
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org" target="_blank">
+        <img align="left" alt="Node.js" height="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/node/node.svg">
+      </a><br>
+      Node.js
+    </td>
+    <td align="center">
+      <a href="https://spring.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="42px"/>
+      </a><br>
+      Spring
+    </td>
+    <td align="center">
+      <a href="https://firebase.google.com/" target="_blank">
+        <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height="42px"/>
+      </a><br>
+      Firebase
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height="42px"/>
+      </a><br>
+      Git
+    </td>
+    <td align="center">
+      <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img align="left" alt="bash" height="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/bash/bash.svg">
+      </a><br>
+      Bash
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42px" height="42px"/>
+      </a><br>
+      MySQL
+    </td>
+    <td align="center">
+      <a href="https://cloud.google.com/" target="_blank">
+        <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/google-cloud/google-cloud.svg" alt="google-cloud" height="42px"/>
+      </a><br>
+      Google Cloud
+    </td>
+    <td align="center">
+      <a href="https://www.docker.com/" target="_blank">
+        <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/docker/docker.svg" alt="docker" height="42px"/>
+      </a><br>
+      </td>
+
+  </tr>
+
+</table>
