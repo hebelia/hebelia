@@ -62,6 +62,9 @@
 
 </div>
 
+<br>
+  <a href="https://github.com/hebelia/github-readme-activity-graph"><img alt="hebelia's activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hebelia&bg_color=0c0c17&color=12e3a4&line=#8512e3&point=FFFFFF&hide_border=true" /></a>
+
 <!--  -->
 
 <br>
@@ -199,7 +202,7 @@
 
 <div align="left">
 
-### ≫ Web Portfolio
+### ⋄ &nbsp; Web Portfolio
 
 <a href="https://github.com/hebelia/front-end" target="_blank"> 
 <!-- <img alt="portfolio" src="/assets/android-chrome-192x192.png" height="68" align="left"> </a> -->
@@ -237,7 +240,7 @@
 
 </div>
 
-### ≫ Rick & Morty (integration project)
+### ⋄ &nbsp; Rick & Morty (integration project)
 
 <div style="display: flex; align-items: center;">
 
@@ -288,4 +291,12 @@
   <a href="mailto:hebeliaromeu@gmail.com"><img align="center" src="/assets/mail.svg" alt="Email Me" height="50" width="45"></a>
 </div>
 
+
 <!-- TEST -->
+<!-- ## ◇ &nbsp;  GitHub Trophies &nbsp; 🏆
+![](https://github-profile-trophy.vercel.app/?username=hebelia&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
+### ◇ &nbsp;  Random Dev Quote &nbsp; 💭 
+-->
+
+
