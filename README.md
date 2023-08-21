@@ -29,45 +29,47 @@
 
 ## 🔨 &nbsp; Languages and Tools &nbsp;:
 
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/react/react.svg"></a>&nbsp;
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/react/react.svg"></a>
 
-<a href="https://redux.js.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/redux/redux.svg" alt="redux" height="42px"/> </a>&nbsp;
+<a href="https://redux.js.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/redux/redux.svg" alt="redux" height="42px"/> </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="typescirpt" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/typescript/typescript.svg"></a>&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="typescirpt" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 
-<a href="https://www.java.com" target="_blank"> <img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/java/java.svg"></a>&nbsp;
+<a href="https://www.java.com" target="_blank"> <img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/java/java.svg"></a>
 
-<a href="https://angular.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/angular/angular.svg" alt="angular" height="42px"/> </a>&nbsp;
+<a href="https://angular.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/angular/angular.svg" alt="angular" height="42px"/> </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" > <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/css/css.svg" alt="css" height="42px"/> </a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" > <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/css/css.svg" alt="css" height="42px"/> </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/html/html.svg" alt="html" height='42px'/> </a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/html/html.svg" alt="html" height='42px'/> </a>
 
-<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="42px" height="42px"/></a>&nbsp;
+<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="42px" height="42px"/></a>
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42px" height="42px"/> </a>&nbsp;
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42px" height="42px"/> </a>
 
-<a href="https://nodejs.org" target="_blank"> <img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/node/node.svg"></a>&nbsp;
+<a href="https://nodejs.org" target="_blank"> <img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/node/node.svg"></a>
 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring"  height="42px"/></a>&nbsp;
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring"  height="42px"/></a>
 
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>&nbsp;
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>&nbsp;
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="bash" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/bash/bash.svg"></a>&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="bash" height ="42px" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/bash/bash.svg"></a>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42px" height="42px"/> </a>&nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42px" height="42px"/> </a>
 
-<a href="https://cloud.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/google-cloud/google-cloud.svg" alt="google-cloud" height="42px"/> </a>&nbsp;
+<a href="https://cloud.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/google-cloud/google-cloud.svg" alt="google-cloud" height="42px"/> </a>
 
-<a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/docker/docker.svg" alt="docker" height="42px"/> </a>&nbsp;
+<a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/docker/docker.svg" alt="docker" height="42px"/> </a>
 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="42px"/> </a>&nbsp;
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="42px"/> </a>
 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="42px"/> </a>&nbsp;
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="42px"/> </a>
+
+<br><br>
 
 <div align="center">
 
@@ -192,11 +194,11 @@
     ▻ first project developed on Henry
 
   </div>
-  <div style="flex: 1; text-align: center;" height="100">
+  <div style="flex: 1; text-align: center;" height="50px">
   
 <!-- ![Image](/assets/favicon.ico) -->
 
-<img alt="integration-project" src="./assets/favicon.ico"  height="100" align="left">
+<img alt="integration-project" src="./assets/favicon.ico"  height="50px" align="left">
 
   </div>
 </div>
@@ -204,18 +206,7 @@
 <br><br><br><br>
 
 <!-- tests -->
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1; padding-right: 20px;">
 
-## Your Title Here
-
-    Your subtitle or additional text goes here.
-
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="/assets/favicon.ico" alt="Image" style="width: 100%; max-height: 100%;">
-  </div>
-</div>
 
 <!--  -->
 
