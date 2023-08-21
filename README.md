@@ -13,9 +13,11 @@
 
 <!-- about me -->
 <div>
-<img align="right" alt="GIF" src="/assets/8d621f66f551b6a39072473d52280ff0.gif" width="370px" height="110%"/>
+
  
-### ◇ &nbsp; About Me &nbsp;:
+## ◇ &nbsp; About Me &nbsp;:
+
+<img align="right" alt="GIF" src="/assets/8d621f66f551b6a39072473d52280ff0.gif" width="370px" height="110%"/>
 
 - 🎯 &nbsp; I’m currently studying on [>SoyHenry<](https://www.soyhenry.com/)
 - 🤝 &nbsp; I love collaborating on projects and learning hands-on;
