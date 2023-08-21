@@ -13,7 +13,7 @@
 
 <!-- about me -->
 <div>
-<img align="right" alt="GIF" src="/assets/8d621f66f551b6a39072473d52280ff0.gif" width="360px"/>
+<img align="right" alt="GIF" src="/assets/8d621f66f551b6a39072473d52280ff0.gif" width="370px" height="110%"/>
  
 ### ◇ &nbsp; About Me &nbsp;:
 
