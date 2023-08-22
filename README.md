@@ -60,8 +60,17 @@
 </div>
 
 <br>
-  <a href="https://github.com/hebelia/github-readme-activity-graph"><img alt="hebelia's activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hebelia&bg_color=0c0c17&color=12e3a4&line=#8512e3&point=FFFFFF&hide_border=true" /></a>
 
+<a href="https://github.com/hebelia/github-readme-activity-graph"><img alt="hebelia's activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hebelia&bg_color=0c0c17&color=7777E4&line=CA7DDE&point=12e3a4&hide_border=true" /></a>
+
+<!-- colour pallete
+
+pink CA7DDE
+cyan 12e3a4
+lilac 7777E4
+dark purple 4242CD
+white D8DEE4
+-->
 <!--  -->
 
 <br>
