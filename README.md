@@ -18,6 +18,7 @@
 <img align="right" alt="GIF" src="/assets/3.gif" width="300px" height="300px"/>
 
 <br>
+
 - 🎯 &nbsp; I’m currently studying on [>SoyHenry<](https://www.soyhenry.com/)
 - 🤝 &nbsp; I love collaborating on projects and learning hands-on;
 - 🌱 &nbsp; I’m currently learning JavaScript and React, and I am interested in learning Rust in the future 🔜;
