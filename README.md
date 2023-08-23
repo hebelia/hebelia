@@ -13,7 +13,7 @@
 <!-- about me -->
 <div>
 
-## ◇ &nbsp; About Me &nbsp;:
+## ◇ &nbsp; About Me &nbsp; ⁀➷
 
 <img align="right" alt="GIF" src="/assets/3.gif" width="300px" height="300px"/>
 
