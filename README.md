@@ -17,6 +17,7 @@
 
 <img align="right" alt="GIF" src="/assets/3.gif" width="300px" height="300px"/>
 
+<br>
 - 🎯 &nbsp; I’m currently studying on [>SoyHenry<](https://www.soyhenry.com/)
 - 🤝 &nbsp; I love collaborating on projects and learning hands-on;
 - 🌱 &nbsp; I’m currently learning JavaScript and React, and I am interested in learning Rust in the future 🔜;
@@ -102,14 +103,14 @@ white D8DEE4
         <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/typescript/typescript.svg" alt="TypeScript" height="42px">
       </a>
     </td>
-
-  </tr>
-  <tr>
-    <td align="center">
+        <td align="center">
       <a href="https://www.java.com" target="_blank">
         <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/java/java.svg" alt="Java" height="42px">
       </a>
     </td>
+
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://angular.io/" target="_blank">
         <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/angular/angular.svg" alt="Angular" height="42px">
@@ -125,10 +126,7 @@ white D8DEE4
         <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/html/html.svg" alt="HTML" height="42px">
       </a>
     </td>
-
-  </tr>
-  <tr>
-    <td align="center">
+        <td align="center">
       <a href="https://www.ruby-lang.org/en/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="42px" height="42px">
       </a>
@@ -138,6 +136,9 @@ white D8DEE4
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="42px" height="42px">
       </a>
     </td>
+
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://nodejs.org" target="_blank">
         <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/node/node.svg" alt="Node.js" height="42px">
@@ -148,10 +149,7 @@ white D8DEE4
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="42px">
       </a>
     </td>
-
-  </tr>
-  <tr>
-    <td align="center">
+        <td align="center">
       <a href="https://firebase.google.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/firebase/firebase.svg" alt="Firebase" height="42px">
       </a>
@@ -166,14 +164,13 @@ white D8DEE4
         <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/bash/bash.svg" alt="Bash" height="42px">
       </a>
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+      <td align="center">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42px" height="42px">
       </a>
     </td>
-
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://cloud.google.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/google-cloud/google-cloud.svg" alt="Google Cloud" height="42px">
