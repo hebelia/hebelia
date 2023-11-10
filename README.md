@@ -185,7 +185,7 @@ white D8DEE4
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" height="42px">
       </a>
     </td>
-    <td></td><td></td><td></td><td></td>
+
   </tr>
 </table>
 
@@ -210,7 +210,7 @@ white D8DEE4
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="42px">
       </a>
     </td>
-    <td></td><td></td>
+
   </tr>
 
 <tr>
@@ -230,7 +230,7 @@ white D8DEE4
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="42px">
       </a>
     </td>
-    <td></td>
+
   </tr>
   <tr>
 <td align="center"><h3 align="center">Design</h3></td>
@@ -273,7 +273,7 @@ white D8DEE4
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" height="42px">
       </a>
     </td>
-    <td></td>
+
   </tr>
    <tr>
    <td align="center"><h3 align="center">Other</h3></td>
@@ -292,7 +292,6 @@ white D8DEE4
         <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/bash/bash.svg" alt="Bash" height="42px">
       </a>
     </td>
-    <td></td>
   </tr>
 </table>
 
