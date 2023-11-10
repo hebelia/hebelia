@@ -230,7 +230,6 @@ white D8DEE4
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="42px">
       </a>
     </td>
-
   </tr>
   <tr>
 <td align="center"><h3 align="center">Design</h3></td>
@@ -273,7 +272,6 @@ white D8DEE4
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" height="42px">
       </a>
     </td>
-
   </tr>
    <tr>
    <td align="center"><h3 align="center">Other</h3></td>
