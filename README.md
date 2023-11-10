@@ -16,8 +16,6 @@
 
 ## ◇ &nbsp; About Me &nbsp; ⁀➷
 
-<h2> ◇ &nbsp; About Me &nbsp; ⁀➷</h2>
-
 <img align="right" alt="GIF" src="/assets/3.gif" width="300px" height="300px"/>
 
 <br>
