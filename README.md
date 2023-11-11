@@ -4,7 +4,7 @@
 <!-- my colour #009188 -->
 
 <!-- [![SVG](https://readme-typing-svg.demolab.com?font=Consola&size=35&pause=1000&color=49F7DE&width=435&lines=Hi%2C+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Hebe+Lia;%E2%9C%85+Full+Stack+Developer+from+Argentina;Nice+to+meet+you+~)]() -->
-<img style="justify-content: center; padding:20px; " alt="gif" src="https://readme-typing-svg.demolab.com?font=Consola&size=35&pause=1000&color=8647F7&width=435&lines=Hi%2C+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Hebe+Lia;%E2%9C%94+Full+Stack+Dev.;Nice+to+meet+you!+%5E%5E" />
+<img style="justify-content: center; padding:20px; " alt="gif" src="https://readme-typing-svg.demolab.com?font=Consola&size=35&pause=1000&color=9696EA&width=700&lines=Hi%2C+I+am+Hebe+Lia++(%E3%80%82%E3%83%BB%E2%80%BF%E3%83%BB)%E3%83%8E;%E2%9C%94+Full+Stack+Software+Dev;Nice+to+meet+you!+%5E%5E" />
 </p>
 </div>
 
@@ -40,6 +40,8 @@
 <!-- github stats -->
 
 <div >
+
+<img style="align-self: center; padding:5px; height:45px; " alt="git-stats" src="/assets/Github-Stats.gif" />
 
 ## ◇ &nbsp; Github Stats &nbsp; 📊
 
@@ -84,6 +86,8 @@ white D8DEE4
 
 <!-- languages and tools -->
 <div>
+
+<img style="align-self: center; padding:5px; height:45px; " alt="git-stats" src="/assets/Languages.gif" />
 
 ## ◇ &nbsp; Languages, Frameworks & Libraries &nbsp; 🔨
 
@@ -211,6 +215,8 @@ holaaa
   </tr>
 </table>
 
+<img style="align-self: center; padding:5px; height:45px; " alt="git-stats" src="/assets/Tools.gif" />
+
 ## ◇ &nbsp; Tools &nbsp; 🔨
 
 <table align="center">
@@ -317,6 +323,8 @@ holaaa
 
 <!-- github projects -->
 
+<img style="align-self: center; padding:5px; height:45px; " alt="git-stats" src="/assets/Projects.gif" />
+
 ## ◇ &nbsp; My Projects &nbsp; 🛠️
 
 <div align="center">
@@ -399,13 +407,31 @@ holaaa
 
 <!-- contact -->
 
+<img style="align-self: center; padding:5px; height:45px; " alt="git-stats" src="/assets/Contact.gif" />
+
 ## ◇ &nbsp; Connect with me &nbsp; 📬
 
-<div align="left">
+<!-- <div align="left">
   <a href="https://linkedin.com/in/hebeliaromeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hebeliaromeu" height="45" width="45" /></a>
-  <a href="https://instagram.com/hebe.lia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hebe.lia" height="45" width="45" /></a>
   <a href="mailto:hebeliaromeu@gmail.com"><img align="center" src="/assets/mail.svg" alt="Email Me" height="50" width="45"></a>
-  <a href="https://codepen.io/hebelia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hebelia" height="45" width="45" /></a>
+
+</div> -->
+
+<div align="center">
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-9696EA?style=for-the-badge&logo=linkedin&logoColor=009188)][linkedin-url]
+[![Email Badge](https://img.shields.io/badge/Email-9696EA?style=for-the-badge&logo=gmail&logoColor=009188)][email-url]
+[![Codepen Badge](https://img.shields.io/badge/Codepen-9696EA?style=for-the-badge&logo=codepen&logoColor=009188)][codepen-url]
+
+<!-- [![Instagram Badge](https://img.shields.io/badge/leetcode-9696EA?style=for-the-badge&logo=instagram&logoColor=009188)][instagram-url] -->
+
+[![LeetCode user hebelia](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=9696EA&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fhebelia&logo=leetcode&logoColor=009188)](https://leetcode.com/hebelia/)
+
+[linkedin-url]: https://linkedin.com/in/hebeliaromeu
+[leetcode-url]: https://leetcode.com/hebelia/
+[email-url]: mailto:hebeliaromeu@gmail.com
+[codepen-url]: https://codepen.io/hebelia
+
 </div>
 
 <!-- TEST -->
