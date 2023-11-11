@@ -41,7 +41,6 @@
 
 <div >
 
-
 ## &nbsp; Github Stats &nbsp; 📊
 
 <!-- ![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg#gh-dark-mode-only)
@@ -69,7 +68,9 @@
 
 <br>
 
-<a href="https://github.com/hebelia/github-readme-activity-graph"><img alt="hebelia's activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hebelia&bg_color=0c0c17&color=7777E4&line=CA7DDE&point=12e3a4&hide_border=true" /></a>
+<!-- (https://img.shields.io/badge/Codepen-9696EA?style=for-the-badge&logo=codepen&logoColor=009188) -->
+<a href="https://github.com/hebelia/github-readme-activity-graph"><img alt="hebelia's activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hebelia&bg_color=0c0c17&color=9696EA&line=CA7DDE&point=009188&hide_border=true" /></a>
+
 
 <!-- colour pallete
 
@@ -85,7 +86,6 @@ white D8DEE4
 
 <!-- languages and tools -->
 <div>
-
 
 ## &nbsp; Languages, Frameworks & Libraries &nbsp; 🔨
 
@@ -213,7 +213,6 @@ holaaa
   </tr>
 </table>
 
-
 ## &nbsp; Tools &nbsp; 🔨
 
 <table align="center">
@@ -319,7 +318,6 @@ holaaa
 </table>
 
 <!-- github projects -->
-
 
 ## &nbsp; My Projects &nbsp; 🛠️
 
