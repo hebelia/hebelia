@@ -14,7 +14,7 @@
 <!-- about me -->
 <div>
 
-<img style="align-self: center; padding:5px; height:45px; " alt="about-me" src="/assets/About-Me.png" />
+<img style="align-self: center; height:60px; " alt="about-me" src="/assets/About-Me.png" />
 </p>
 
 <!-- ## ◇ &nbsp; About Me &nbsp; ⁀➷ -->
@@ -41,7 +41,7 @@
 
 <div >
 
-<img style="align-self: center; padding:5px; height:45px; " alt="git-stats" src="/assets/Github-Stats.gif" />
+<img style="align-self: center; height:60px; " alt="git-stats" src="/assets/Github-Stats.gif" />
 
 <!-- ## ◇ &nbsp; Github Stats &nbsp; 📊 -->
 
@@ -87,7 +87,7 @@ white D8DEE4
 <!-- languages and tools -->
 <div>
 
-<img style="align-self: center; padding:5px; height:50px; " alt="git-stats" src="/assets/Languages.gif" />
+<img style="align-self: center; height:70px; " alt="git-stats" src="/assets/Languages.gif" />
 
 <!-- ## ◇ &nbsp; Languages, Frameworks & Libraries &nbsp; 🔨 -->
 
@@ -215,7 +215,7 @@ holaaa
   </tr>
 </table>
 
-<img style="align-self: center; padding:5px; height:40px; " alt="git-stats" src="/assets/Tools.gif" />
+<img style="align-self: center; height:50px; " alt="git-stats" src="/assets/Tools.gif" />
 
 <!-- ## ◇ &nbsp; Tools &nbsp; 🔨 -->
 
@@ -323,7 +323,7 @@ holaaa
 
 <!-- github projects -->
 
-<img style="align-self: center; padding:5px; height:45px; " alt="git-stats" src="/assets/Projects.gif" />
+<img style="align-self: center; height:60px; " alt="git-stats" src="/assets/Projects.gif" />
 
 <!-- ## ◇ &nbsp; My Projects &nbsp; 🛠️ -->
 
@@ -407,7 +407,7 @@ holaaa
 
 <!-- contact -->
 
-<img style="align-self: center; padding:5px; height:45px; " alt="git-stats" src="/assets/Contact.gif" />
+<img style="align-self: center; height:60px; " alt="git-stats" src="/assets/Contact.gif" />
 
 <!-- ## ◇ &nbsp; Connect with me &nbsp; 📬 -->
 
