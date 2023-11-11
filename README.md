@@ -17,7 +17,7 @@
 <img style="align-self: center; padding:5px; height:45px; " alt="about-me" src="/assets/About-Me.png" />
 </p>
 
-## ◇ &nbsp; About Me &nbsp; ⁀➷
+<!-- ## ◇ &nbsp; About Me &nbsp; ⁀➷ -->
 
 <img align="right" alt="GIF" src="/assets/3.gif" width="300px" height="300px"/>
 
@@ -43,7 +43,7 @@
 
 <img style="align-self: center; padding:5px; height:45px; " alt="git-stats" src="/assets/Github-Stats.gif" />
 
-## ◇ &nbsp; Github Stats &nbsp; 📊
+<!-- ## ◇ &nbsp; Github Stats &nbsp; 📊 -->
 
 <!-- ![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg#gh-dark-mode-only)
 
@@ -87,11 +87,11 @@ white D8DEE4
 <!-- languages and tools -->
 <div>
 
-<img style="align-self: center; padding:5px; height:45px; " alt="git-stats" src="/assets/Languages.gif" />
+<img style="align-self: center; padding:5px; height:50px; " alt="git-stats" src="/assets/Languages.gif" />
 
-## ◇ &nbsp; Languages, Frameworks & Libraries &nbsp; 🔨
+<!-- ## ◇ &nbsp; Languages, Frameworks & Libraries &nbsp; 🔨 -->
 
-<table align="center" style="border: transparent;">
+<!-- <table align="center" style="border: transparent;">
   <tr style="border: 2px solid #E74C3C;">
     <td align="center" style="border: 2px solid #2ECC71;">
 holaaa
@@ -108,7 +108,7 @@ holaaa
 
   </tr>
 
-</table>
+</table> -->
 
 <table align="center">
   <tr>
@@ -215,9 +215,9 @@ holaaa
   </tr>
 </table>
 
-<img style="align-self: center; padding:5px; height:45px; " alt="git-stats" src="/assets/Tools.gif" />
+<img style="align-self: center; padding:5px; height:40px; " alt="git-stats" src="/assets/Tools.gif" />
 
-## ◇ &nbsp; Tools &nbsp; 🔨
+<!-- ## ◇ &nbsp; Tools &nbsp; 🔨 -->
 
 <table align="center">
 
@@ -325,7 +325,7 @@ holaaa
 
 <img style="align-self: center; padding:5px; height:45px; " alt="git-stats" src="/assets/Projects.gif" />
 
-## ◇ &nbsp; My Projects &nbsp; 🛠️
+<!-- ## ◇ &nbsp; My Projects &nbsp; 🛠️ -->
 
 <div align="center">
 
@@ -409,7 +409,7 @@ holaaa
 
 <img style="align-self: center; padding:5px; height:45px; " alt="git-stats" src="/assets/Contact.gif" />
 
-## ◇ &nbsp; Connect with me &nbsp; 📬
+<!-- ## ◇ &nbsp; Connect with me &nbsp; 📬 -->
 
 <!-- <div align="left">
   <a href="https://linkedin.com/in/hebeliaromeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hebeliaromeu" height="45" width="45" /></a>
