@@ -14,6 +14,9 @@
 <!-- about me -->
 <div>
 
+<img style="justify-content: center; padding-top:20px; " alt="about-me" src="/assets/About-Me.png" />
+</p>
+
 ## ◇ &nbsp; About Me &nbsp; ⁀➷
 
 <img align="right" alt="GIF" src="/assets/3.gif" width="300px" height="300px"/>
@@ -83,6 +86,25 @@ white D8DEE4
 <div>
 
 ## ◇ &nbsp; Languages, Frameworks & Libraries &nbsp; 🔨
+
+<table align="center" style="border: transparent;">
+  <tr style="border: 2px solid #E74C3C;">
+    <td align="center" style="border: 2px solid #2ECC71;">
+holaaa
+    </td>
+        <td align="center" style="border: 2px solid #2ECC71;">
+holaaa
+    </td>
+        <td align="center" style="border: 2px solid #2ECC71;">
+holaaa
+    </td>
+        <td align="center" style="border: 2px solid #2ECC71;">
+holaaa
+    </td>
+
+  </tr>
+
+</table>
 
 <table align="center">
   <tr>
