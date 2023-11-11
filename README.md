@@ -41,9 +41,8 @@
 
 <div >
 
-<img style="align-self: center; height:60px; " alt="git-stats" src="/assets/Github-Stats.gif" />
 
-<!-- ## ◇ &nbsp; Github Stats &nbsp; 📊 -->
+## &nbsp; Github Stats &nbsp; 📊
 
 <!-- ![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg#gh-dark-mode-only)
 
@@ -87,9 +86,8 @@ white D8DEE4
 <!-- languages and tools -->
 <div>
 
-<img style="align-self: center; height:70px; " alt="git-stats" src="/assets/Languages.gif" />
 
-<!-- ## ◇ &nbsp; Languages, Frameworks & Libraries &nbsp; 🔨 -->
+## &nbsp; Languages, Frameworks & Libraries &nbsp; 🔨
 
 <!-- <table align="center" style="border: transparent;">
   <tr style="border: 2px solid #E74C3C;">
@@ -215,9 +213,8 @@ holaaa
   </tr>
 </table>
 
-<img style="align-self: center; height:50px; " alt="git-stats" src="/assets/Tools.gif" />
 
-<!-- ## ◇ &nbsp; Tools &nbsp; 🔨 -->
+## &nbsp; Tools &nbsp; 🔨
 
 <table align="center">
 
@@ -323,9 +320,8 @@ holaaa
 
 <!-- github projects -->
 
-<img style="align-self: center; height:60px; " alt="git-stats" src="/assets/Projects.gif" />
 
-<!-- ## ◇ &nbsp; My Projects &nbsp; 🛠️ -->
+## &nbsp; My Projects &nbsp; 🛠️
 
 <div align="center">
 
