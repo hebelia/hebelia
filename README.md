@@ -14,10 +14,9 @@
 <!-- about me -->
 <div>
 
-<img style="align-self: center; height:60px; " alt="about-me" src="/assets/About-Me.png" />
-</p>
+<!-- <img style="align-self: center; height:60px; " alt="about-me" src="/assets/About-Me.png" /> -->
 
-<!-- ## ◇ &nbsp; About Me &nbsp; ⁀➷ -->
+## &nbsp; About Me &nbsp; ⁀➷
 
 <img align="right" alt="GIF" src="/assets/3.gif" width="300px" height="300px"/>
 
@@ -69,8 +68,8 @@
 <br>
 
 <!-- (https://img.shields.io/badge/Codepen-9696EA?style=for-the-badge&logo=codepen&logoColor=009188) -->
-<a href="https://github.com/hebelia/github-readme-activity-graph"><img alt="hebelia's activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hebelia&bg_color=0c0c17&color=9696EA&line=CA7DDE&point=009188&hide_border=true" /></a>
 
+<a href="https://github.com/hebelia/github-readme-activity-graph"><img alt="hebelia's activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hebelia&bg_color=0c0c17&color=9696EA&line=CA7DDE&point=009188&hide_border=true" /></a>
 
 <!-- colour pallete
 
@@ -88,25 +87,6 @@ white D8DEE4
 <div>
 
 ## &nbsp; Languages, Frameworks & Libraries &nbsp; 🔨
-
-<!-- <table align="center" style="border: transparent;">
-  <tr style="border: 2px solid #E74C3C;">
-    <td align="center" style="border: 2px solid #2ECC71;">
-holaaa
-    </td>
-        <td align="center" style="border: 2px solid #2ECC71;">
-holaaa
-    </td>
-        <td align="center" style="border: 2px solid #2ECC71;">
-holaaa
-    </td>
-        <td align="center" style="border: 2px solid #2ECC71;">
-holaaa
-    </td>
-
-  </tr>
-
-</table> -->
 
 <table align="center">
   <tr>
