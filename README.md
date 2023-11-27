@@ -256,7 +256,7 @@ white D8DEE4
 </table>
 
 <!-- github projects -->
-
+<!-- 
 ## &nbsp; My Projects &nbsp; 🛠️
 
 <div align="center">
@@ -266,7 +266,7 @@ white D8DEE4
 ### ⋄ &nbsp; Web Portfolio
 
 <a href="https://github.com/hebelia/front-end" target="_blank"> 
-<!-- <img alt="portfolio" src="/assets/android-chrome-192x192.png" height="68" align="left"> </a> -->
+
 
 <div style="display: flex; align-items: center;">
 
@@ -333,9 +333,7 @@ white D8DEE4
 
 </div>
 
-<!--  -->
-
-<br><br>
+<br><br> -->
 
 <!-- contact -->
 
