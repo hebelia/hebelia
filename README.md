@@ -23,14 +23,14 @@
 <br>
 
 - 📌 &nbsp; I am a passionate frontend developer from [>Argentina<](https://g.co/kgs/iJQ7Lu)
-- 🎯 &nbsp; I’m currently studying on [>LeetCode<](https://leetcode.com/hebelia/)
-- 🤝 &nbsp; I love collaborating on projects and learning hands-on;
-- 🌱 &nbsp; I’m currently learning Next.js and I am interested in learning Python in the future 🔜;
+- 🎯 &nbsp; I’m currently studying on [>freeCodeCamp<](https://www.freecodecamp.org/)
+- 🤝 &nbsp; I love collaborating on projects and learning hands-on
+- 🌱 &nbsp; I’m currently learning Three.js & Next.js, and I am interested in learning Python in the future 🔜
 - 👨🏻‍💻 &nbsp; Most of my projects are on [>GitHub<](https://github.com/hebelia?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [>LinkedIn<](https://www.linkedin.com/in/hebeliaromeu/)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels and make cover songs
-- 💬 &nbsp; Ask me about anything , I'm happy to help ( •̀ ω •́ )✧
-- 📝 &nbsp; Here you can find my resume in [>English<](https://docs.google.com/document/d/1A8dwibi2h_TVkQDw2ec4r7REWT6ZkDGw/edit?rtpof=true) or in [>Español<](https://docs.google.com/document/d/1wQFGrPGNOA0a5e6yzBFRZ4Pr-sG4k_fG/edit?usp=sharing&ouid=114641724974306952750&rtpof=true&sd=true)
+- 💬 &nbsp; Ask me about anything, I'm happy to help ( •̀ ω •́ )✧
+- 📝 &nbsp; Here you can find my resume in [>English<](https://docs.google.com/document/d/1ZoNmwHIZr5u2SPRzrMdw-JzPjFN92QXL/edit?usp=sharing&ouid=114641724974306952750&rtpof=true&sd=true) or in [>Español<](https://docs.google.com/document/d/1nL5RPkCLo8r0lTudGc2HJPNVn6vCtY1e/edit?usp=sharing&ouid=114641724974306952750&rtpof=true&sd=true)
 
 </div>
 <!--  -->
@@ -86,8 +86,13 @@ white D8DEE4
 <!-- languages and tools -->
 <div>
 
-## &nbsp; Languages, Frameworks & Libraries &nbsp; 🔨
+## &nbsp; Languages, Frameworks, Libraries & Tools  &nbsp; 🔨
 
+<table>
+
+<tr>
+
+<td>
 <p align="center">
   <h3>Languages</h3><br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -102,7 +107,30 @@ white D8DEE4
   <a href="https://www.ruby-lang.org/en/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" height="42px">
   </a>
+</p></td>
+
+
+<td>
+<p align="center">
+  <h3>Back End</h3><br>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" height="42px">
+  </a>
+  <a href="https://sequelize.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" height="42px">
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/node/node.svg" alt="Node.js" height="42px">
+  </a>
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="42px">
+  </a>
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" height="42px">
+  </a>
 </p>
+</td>
+<td>
 
 <p align="center">
   <h3>Front End</h3><br>
@@ -135,28 +163,13 @@ white D8DEE4
   </a>
 </p>
 
-<p align="center">
-  <h3>Back End</h3><br>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" height="42px">
-  </a>
-  <a href="https://sequelize.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" height="42px">
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/node/node.svg" alt="Node.js" height="42px">
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="42px">
-  </a>
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" height="42px">
-  </a>
-</p>
+</td>
 
-## &nbsp; Tools &nbsp; 🔨
 
-<table>
+
+</tr>
+
+
 
 <tr>
 
@@ -192,6 +205,10 @@ white D8DEE4
 </p>
 
 </td>
+
+
+<td></td>
+
 
 </tr>
 
