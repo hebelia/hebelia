@@ -206,14 +206,6 @@ white D8DEE4
 
 </td>
 
-
-<td></td>
-
-
-</tr>
-
-<tr>
-
 <td>
 
 <p align="center">
@@ -234,6 +226,10 @@ white D8DEE4
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <p align="center">
@@ -251,8 +247,7 @@ white D8DEE4
 
 </td>
 
-</tr>
-<tr>
+
 <td>
 <p align="center">
   <h3>Other</h3><br>
@@ -269,6 +264,8 @@ white D8DEE4
 
 </td>
 </tr>
+
+
 
 </table>
 
